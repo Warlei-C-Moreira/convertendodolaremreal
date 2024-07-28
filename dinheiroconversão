@@ -1,0 +1,3 @@
+ real valorReal, valorDolar
+ escreva("Valor convertido $", valorDolar, "\n\n")  
+   
