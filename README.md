@@ -1,0 +1,2 @@
+# convertendodolaremreal
+dolarparareal
